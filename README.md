@@ -6,13 +6,13 @@ Institution: Zewail City of Science and Technology
 Course Code: CSAI 252
 
 ## Team Members
-Mahmoud Sakr
-Rawda Mohammed
-Eman Taia
-Nourhan Samir
+Mahmoud Sakr -
+Rawda Mohammed -
+Eman Taia -
+Nourhan Samir -
 
 ## Supervised By
-Professor: Dr. Heba Aty
+Professor: Dr. Heba Aty -
 Teaching Assistants: Ahmed Abdelgawad, Hana Zein
 
 ## Project Description
